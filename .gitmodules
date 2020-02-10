@@ -1,3 +1,3 @@
 [submodule "builder/frameworks/libopencm3"]
 	path = builder/frameworks/libopencm3
-	url = https://github.com/rbarry/pio_builder-framework-libopencm3.git
+	url = https://github.com/ryanbarry/pio_builder-framework-libopencm3.git
